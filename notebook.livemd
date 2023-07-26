@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I think whiteboard coding rituals are unpredictive hazing rituals and I don't use them when
+I think whiteboard coding interviews are unpredictive hazing rituals and I don't use them when
 hiring or assessing candidates. For the most part, I'll decline a job interview rather than
 subject myself to them. But I thought it might be instructive to solve some of the questions
 typically used in these interviews using (hopefully) idiomatic Elixir.
