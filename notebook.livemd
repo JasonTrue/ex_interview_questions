@@ -185,7 +185,7 @@ disjunction = MapSet.difference(union, intersection)
 If the interviewer seems displeased by that and says "we want to make sure you can *really* implement this by
 hand," I recommend walking out of the interview and humbly asking them not to waste your time any further.
 Because if you happen to know what a Set data structure is called, you can go and look up efficient implementations in
-the event you ever need to do it by hand. And if you have a Map data structure, you
+the event you ever need to do it by hand. And if you have a Map data structure,
 but not a Set abstraction, you can easily implement a set in terms of Maps (as
 Elixir does under the covers).
 
@@ -195,7 +195,7 @@ you can crack open a book or look something up online.
 
 However, perhaps they have better interview-side manner, and they want you to do an iterative solution without
 built-in maps/hashes/sets because they really like for loops, and they seem like fun people. They give you
-a freebie and say "assume the two lists are sorted and there are no duplicates within the individual lists.
+a freebie and say "assume the two lists are sorted and there are no duplicates within the individual lists."
 
 You can do this in for loops, but personally I find all the conditionals I'd have to write difficult
 to keep in my head all at once. And at least in Elixir, writing recursive functions with pattern matching
